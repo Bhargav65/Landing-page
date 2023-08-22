@@ -1,2 +1,2 @@
-# Oasis-Task1
-Landing page
+# Landing Page
+This is a Static landing page
